@@ -1,0 +1,22 @@
+@CHARSET "EUC-KR";
+/* contents */
+div.visual_w:after{content:"";display:block;clear:both;}
+/*div.visual_w div.m_slie{width:500px;float:left;}*/
+div.visual_w div.banner_w{float:left}
+div.visual_w div.banner_w div{display:inline-block;height:186px;background:#ddd;}
+
+div.mile_shop ul:after{content:"";display:block;clear:both;}
+div.mile_shop ul{padding:0;margin-left:-10px;}
+div.mile_shop ul li{list-style:none;display:inline-block;float:left;width:25%;padding:10px 0 10px 10px;}
+div.mile_shop ul li a{display:inline-block;border:1px solid #d9d9d9;}
+div.mile_shop ul li a span{width:171px;height:177px;overflow:hidden;display:inline-block;}
+div.mile_shop ul li a span img{width:171px;height:auto;}
+div.mile_shop ul li a span.txt{display:inline-block;height:auto !important;padding:10px 5px;text-align:center;color:#2f2f2f;font-size:15px;font-weight:bold;letter-spacing:-0.05em;line-height:1.6;}
+div.mile_shop ul li a span em{color:#ff3c00;font-size:18px;font-weight:bold;}
+
+div.slide a.left, div.slide a.right{top:50%;background:none;border:none;}
+div.slide div.carousel-inner div.container{display:none;}
+
+.carousel-control .glyphicon-chevron-left{left:15%;}
+.carousel-control .glyphicon-chevron-right{right:5%;}
+.carousel-indicators{display:none;}

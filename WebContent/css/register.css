@@ -1,0 +1,40 @@
+@CHARSET "EUC-KR";
+.form_regi input[type="text"], .form_regi input[type="password"], .form_regi input[type="email"]{height:34px;line-height:34px}
+.loginForm{width:300px;margin:0 auto;}
+.loginForm input[type="text"], .loginForm input[type="password"]{height:34px;line-height:34px}
+.loginFormBtn{margin-left: 204px;width: 70px;}
+.foot_height{height:750px;}
+.loginPadding{padding-bottom:400px;}
+.search{padding-left: 350px;}
+.select{width:120px;}
+input.searchButton{line-height: 30px;height: 30px;margin-bottom: 0;}
+input.field{width:400px;line-height: 30px;height: 30px;margin-bottom: 0;}
+input.fileMargin{margin-top: 17px;}
+textarea.field{width:400px;}
+div.btn_w{position:relative;text-align:center;}
+ul.btn_r{position:absolute;top:0;right:0;}
+ul.btn_fl{clear:both;}
+ul.btn_fl li{display:inline-block;float:left;margin-right:10px;}
+div.page-header h1{text-align:center;font-size:22px;padding-bottom:10px;}
+div.regi_ok_w h1{font-weight:600;font-size:20px;}
+div.regi_ok{text-align:center;padding:60px 0;margin:10px 0 0;border:2px solid #ececec;background:#f7f7f7;font-size:24px;color:#323232;letter-spacing:-0.03em;}
+div.regi_ok p{font-size:13px;color:#5b5b5b;margin-top:15px;letter-spacing:-0.05em;}
+div.regi_ok p.fz_20{font-size:20px;}
+div.regi_ok em{color:#1564B1}
+div.regi_ok a{display:block;margin-top:20px;}
+div.regi_ok span.f_bold{display:inline;margin:0;color:#5b5b5b}
+div.regi_ok a.btn{border-radius:20px;background:#3a92e9;border:0;color:#fff;display:block;width:120px;margin:0 auto;margin-top:15px;text-shadow:none;}
+
+div.col-xs-9 div.form_regi.drop div.form-group{padding:0 100px;}
+
+div.form_regi div.form-group{padding:0 150px;}
+div.form_regi div.form-group input.dupl{width:101px;}
+div.form_regi div.form-group div.ta_c button{display:inline-block;}
+div.form_regi div.form-group div.lh{line-height:34px;}
+div.form_regi div.form-group input[type=radio]{margin:0;height:auto;}
+div.form_regi div.form-group input[type=checkbox]{margin-left:0;}
+
+body#pop_idsch{padding:15px;}
+body#pop_idsch h1{font-size: 20px;font-weight: bold;margin: 0 0 25px 0;}
+body#pop_idsch input.pop_idsch{width:150px;line-height:34px;height:34px;margin-bottom:0;}
+

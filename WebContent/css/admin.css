@@ -1,0 +1,24 @@
+@CHARSET "EUC-KR";
+/* admin */
+
+.container.adm{padding:20px 0}
+
+.container.adm select{width:150px;height:34px;line-height:34px;}
+
+.container.adm div.form-group{margin-bottom:0;}
+.container.adm div.form-group input[type="text"]{height:30px;line-height:30px;margin-bottom:0;}
+.container.adm div.form-group textarea{width:100%;}
+.container.adm .table>tbody>tr>th{line-height:47px;padding:0 8px;}
+.container.adm .table>tbody>tr>td{padding-right:40px;}
+.container.adm .table{border-bottom:1px solid #ddd;}
+
+.container.adm div.form-group.file>p{display:inline;font-weight:700;margin-right:30px;}
+.container.adm div.form-group.file>input{display:inline;}
+.container.adm .page-header{border-bottom:0; margin:0;font-weight:600;}
+
+ul.btn_fl li{float:left;}
+ul.btn_fl li:last-child{float:right;margin-right:0;}
+ul.btn_c:after{content:"";display:block;clear:both;}
+ul.btn_c{display:block;width:142px;margin:0 auto;}
+ul.btn_c li{display:inline-block;float:left;margin-right:10px;}
+ul.btn_c li:last-child{margin-right:0;}
